@@ -1,4 +1,4 @@
-laravel4-notice
+laravel-4-notices
 ===============
 
 Laravel notification package.
